@@ -30,11 +30,10 @@ An Array of Sequences
 ## Run Localy
 
 
-
 ```bash
-  python -m doctest -v sample.py
-  
+  python sample.py
 ```
+
     
 
 
