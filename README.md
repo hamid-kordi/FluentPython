@@ -26,6 +26,15 @@ An Array of Sequences
   pip Install python
   
 ```
+
+## Run Localy
+
+
+
+```bash
+  python -m doctest -v sample.py
+  
+```
     
 
 
