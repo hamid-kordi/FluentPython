@@ -27,7 +27,6 @@ An Array of Sequences
   
 ```
     
-![Logo](https://banner2.cleanpng.com/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg)
 
 
 ## 🔗 Appendix
