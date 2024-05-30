@@ -22,7 +22,7 @@ class FrenchDeck:
     True
     """
     ranks = [str(n) for n in range(2, 11)] + list("JQKA")
-    suits = "my first name is asanali".split()
+    suits = "spades diamonds clubs hearts".split()
 
     def __init__(self):
         self._card = [Card(rank, suit) for suit in self.suits for rank in self.ranks]
