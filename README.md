@@ -10,7 +10,7 @@ python, oop.
 
 ## Lessons Learned
 
-the session of the book and code : 
+book's sessions:
 
 ### chapter 1
 The Python Data Model
