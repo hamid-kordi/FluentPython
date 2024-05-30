@@ -89,3 +89,7 @@ class Vector:
         V(3,6)
         """
         return Vector(self.x*scaler,self.y*scaler)
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod(verbose=True)
